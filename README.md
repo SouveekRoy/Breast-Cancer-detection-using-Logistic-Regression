@@ -56,7 +56,7 @@ Computing the accuracy with k-Fold cross-validation
 
 ## -Credit scoring
 
-##- Consumer behavior
+## -Consumer behavior
 
 ## -Customer retention
 
